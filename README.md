@@ -1,8 +1,4 @@
-
-
-
-
-
+![logo](https://github.com/Karthikc22/Karthikc22/blob/main/Data-Banner.png)
 <h1 align="center">Hi 👋, I'm Karthik C</h1>
 <h3 align="center">Data pragmatist | Content Creator | Video Editor | Blogger</h3>
 <img align="right" alt="Coding" width="400" src="https://static.vecteezy.com/system/resources/previews/002/885/152/non_2x/online-meeting-work-from-home-vector.jpg">
